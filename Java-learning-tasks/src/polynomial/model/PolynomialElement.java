@@ -1,4 +1,4 @@
-package model;
+package polynomial.model;
 
 public class PolynomialElement {
 

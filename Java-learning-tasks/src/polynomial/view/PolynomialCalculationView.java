@@ -1,6 +1,6 @@
-package view;
+package polynomial.view;
 
-import controller.PolynomialCalculationController;
+import polynomial.controller.PolynomialCalculationController;
 
 public class PolynomialCalculationView {
 

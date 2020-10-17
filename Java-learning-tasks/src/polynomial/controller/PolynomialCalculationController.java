@@ -1,7 +1,7 @@
-package controller;
+package polynomial.controller;
 
-import model.Polynomial;
-import model.PolynomialElement;
+import polynomial.model.Polynomial;
+import polynomial.model.PolynomialElement;
 
 import java.util.Arrays;
 
